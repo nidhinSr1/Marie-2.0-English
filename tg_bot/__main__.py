@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Sorry.. This Bot Can Only Be Used in [Cinema Factory](https://t.me/Cf_chat) Group!
+Sorry.. This Bot Can Only Be Used in Cinema Factory Group!
 
 
 
