@@ -35,9 +35,11 @@ Sorry.. This Bot Can Only Be Used in [Cinema Factory](https://t.me/Cf_chat) Grou
 
 HELP_STRINGS = """
 
-Hello! my name *{}*.
+Hey there! My name is Dulquer.
+I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of the things I can help you with.
+Main commands available:
 
-*Main* available commands:
+
  - /start: Start the bot...
  - /help: help....
  - /donate: To find out more about donating!
